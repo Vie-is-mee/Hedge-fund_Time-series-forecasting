@@ -1,0 +1,5 @@
+numpy
+pandas
+polars
+lightgbm
+psutil
